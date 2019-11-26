@@ -14,6 +14,7 @@
 <body>
 	<div class="container">
 		</br>
+		<h1>Hello IRISI</h1>
 		<div class="alert alert-secondary text-center" role="alert">La liste des produits</div>
 		<table class="table">
 			<thead class="thead-dark">
